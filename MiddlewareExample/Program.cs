@@ -13,7 +13,8 @@ app.Use(async (HttpContext context, RequestDelegate next) =>
 });
 
 //Middleware 2
-app.UseCustomMiddleware();
+//app.UseCustomMiddleware();
+app.UseHelloCustomMiddleware();
 
 //app.Use(async (HttpContext context, RequestDelegate next) =>
 //{
