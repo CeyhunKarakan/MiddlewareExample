@@ -9,6 +9,4 @@ Run Methods,
 Middleware Chain, 
 Custom Middleware Class, 
 Custom Middleware Extension,
-Custom Conventional Middleware Class,
-The Right Order of Middleware,
-UseWhen
+Custom Conventional Middleware Class
